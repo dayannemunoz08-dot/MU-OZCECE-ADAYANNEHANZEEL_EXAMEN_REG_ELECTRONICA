@@ -28,7 +28,6 @@ Se realizaron los cálculos necesarios para el diseño del convertidor, incluyen
 * Rizado de corriente ( \Delta i_L )
 * Rizado de voltaje ( \Delta V_o )
 
-📎 *(Aquí puedes mencionar o resumir lo que tienes en el archivo CALCULOS.docx)*
 
 ---
 
@@ -42,11 +41,11 @@ Se implementó el circuito en un simulador electrónico, donde se analizaron las
 * Corriente en el interruptor
 * Corriente de salida
 
-📎 *(Aquí puedes mencionar el archivo de simulación o software usado)*
+
 
 ---
 
-## 📸 Evidencias
+
 
 ### 🔹 Voltaje de salida
 
@@ -134,9 +133,3 @@ Vo	17.4 V	11.4 V	-34.09 %
 * El inductor y capacitor cumplen su función de filtrado
 * Las señales coinciden con el comportamiento teórico esperado
 
-
-## 📂 Archivos del proyecto
-
-* `CALCULOS.docx` → Desarrollo matemático
-* `EVIDENCIAS.docx` → Capturas del osciloscopio
-* `SIMULACION ELECTRONICA` → Archivo del circuito
