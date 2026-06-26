@@ -49,7 +49,7 @@ Se implementó el circuito en un simulador electrónico, donde se analizaron las
 
 ### 🔹 Voltaje de salida
 
-📍 *(Insertar imagen aquí)*
+📍
 Se observa una señal casi constante con pequeñas variaciones (rizado).
 Esto indica que el capacitor está filtrando correctamente la señal.
 
@@ -57,14 +57,14 @@ Esto indica que el capacitor está filtrando correctamente la señal.
 
 ### 🔹 Corriente media de salida
 
-📍 *(Insertar imagen aquí)*
+📍 
 La corriente es prácticamente constante, lo que confirma estabilidad en la carga.
 
 ---
 
 ### 🔹 Corriente en la inductancia
 
-📍 *(Insertar imagen aquí)*
+📍 
 Se presenta una forma de onda triangular característica.
 
 * Aumenta cuando el interruptor está encendido (ON)
@@ -76,7 +76,7 @@ Esto indica operación en **modo de conducción continua (CCM)**.
 
 ### 🔹 Corriente por el diodo
 
-📍 *(Insertar imagen aquí)*
+📍 
 El diodo conduce cuando el interruptor está apagado.
 
 * Funciona como camino de recirculación
@@ -86,7 +86,7 @@ El diodo conduce cuando el interruptor está apagado.
 
 ### 🔹 Corriente por el interruptor
 
-📍 *(Insertar imagen aquí)*
+📍 
 Se observan pulsos de corriente.
 
 * Conduce solo en estado ON
@@ -105,7 +105,6 @@ Las señales obtenidas permiten verificar el correcto funcionamiento del convert
 
 ### ✔️ Corriente del inductor
 
-* Forma triangular
 * Indica almacenamiento y liberación de energía
 * No cae a cero → operación en CCM
 
